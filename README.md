@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/Paucinha/api-ecommerce-dio?style=flat-square)
 
-Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, como:
+Este repositório contém o resumo das lições aprendidas durante o desenvolvimento do lab na DIO, como a nuvem pode melhorar a eficiência e escalabilidade:
 
 - Benefícios da alta disponibilidade e da escalabilidade na nuvem.
   
